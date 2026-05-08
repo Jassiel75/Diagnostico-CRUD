@@ -29,7 +29,8 @@ Este es un sistema completo de gestión de productos (CRUD) que permite crear, l
 2. Instala las dependencias: `npm install`.
 3. Inicia el proyecto: `npm run dev`.
 
-
+## Evidencias
+![alt text](image.png) ![alt text](image-1.png) ![alt text](image-2.png)
 ## Uso de IA
 **¿Se utilizó IA?:** Sí.
 **¿Para qué?:** Se utilizó como asistente del frontend y solucionar errores del backend
